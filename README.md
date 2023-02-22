@@ -1,8 +1,7 @@
 # Portfolio
 ## About me
 
-My name is <b>Katarzyna Mikuła-Opalińska</b>. 
-
+My name is <b>Katarzyna Mikuła-Opalińska</b>. I have graduated from dietetics and food technology at the University of Agriculture in Krakow. Recently i have interested in software testing. I have started developing my knowladge and skills about this topic. On this site i want to share my gained expirence.
 
 ## Courses
 - Dare IT Challenges - Zostań Testerem Manualnym
